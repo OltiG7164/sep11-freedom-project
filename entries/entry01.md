@@ -13,7 +13,7 @@ https://www.bluetooth.com/about-us/our-history/
 I also want to plan ahead and see what hackers use to view people's private information through bluetooth. Are there tools used to
 hack bluetooth connections? Is there some type of hyjacking? Or even is it on private or public connection through the public and
 etc. This is something I would have to look into in the future to further understand how complex the process of bluetooth hacking
-might be.
+might be. LINK: https://cyware.com/news/latest-bluetooth-hacking-techniques-expose-new-attack-vectors-for-hackers-a16cfb5e
 
 Outside my project it really has made me more weary of time management. I thought that bluetooth wouldn't be as complicated as it is
 but I need to prepare for that by setting aside time. By doing this I can function much better when it comes to research and overall
